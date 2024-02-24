@@ -1,1 +1,1 @@
-# This Repositery contains the Gen AI Related Projects 
+# This Repository contains the Gen AI Related Projects 
